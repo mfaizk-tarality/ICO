@@ -1,8 +1,5 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import "swiper/css";
-import "swiper/css/navigation";
-import "swiper/css/pagination";
 import Header from "@/common_component/Header";
 import { QueryProvider } from "@/modules/globals/QueryProvider";
 import BlockChainWrapper from "@/modules/globals/BlockChainWrapper";
