@@ -7,7 +7,6 @@ import Header from "@/common_component/Header";
 import { QueryProvider } from "@/modules/globals/QueryProvider";
 import BlockChainWrapper from "@/modules/globals/BlockChainWrapper";
 import { Toaster } from "sonner";
-import "react-circular-progressbar/dist/styles.css";
 import { Footer } from "@/common_component/Footer";
 
 const interSans = Inter({
