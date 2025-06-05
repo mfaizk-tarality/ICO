@@ -508,7 +508,7 @@ const ICO = () => {
         </p>
 
         <div
-          className="border border-stroke my-8 rounded-xl p-14 md:p-10 md:px-20"
+          className="border border-stroke my-8 rounded-xl p-12 md:p-10 md:px-20"
           style={{
             background:
               "linear-gradient(148.97deg, rgba(8, 8, 8, 0.04) 0%, rgba(87, 30, 94, 0.35) 100%)",

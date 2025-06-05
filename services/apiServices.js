@@ -1,7 +1,7 @@
 import axios from "axios";
 
-// export const url = "https://api.tan.live/api/v1/";
-export const url = "http://172.16.16.206:8009/api/v1/"; //shivam
+// export const url = "https://api.tan.live/api/v1/"; //main
+export const url = "http://172.16.16.206:8009/api/v1/"; //local shivam
 
 export const api = axios.create({
   baseURL: url,
